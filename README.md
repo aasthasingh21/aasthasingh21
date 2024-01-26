@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aastha Singh.
-- 👀 I’m interested in Programming and Development.
+- 👀 I’m a Software Developer.
 - 🌱 I’m currently learning MERN Stack/ Full Stack Development.
 - 💞️ I’m looking for job roles in MERN Stack/ Java Developer.
 - 📫 contact me aasthasingh552@gmail.com or https://www.linkedin.com/in/aasthasingh2023
